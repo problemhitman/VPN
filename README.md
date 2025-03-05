@@ -6,7 +6,6 @@
 Oblivion provides secure, optimized internet access through a user-friendly Windows/Mac/Linux app using cloudflare warp
 technology
 
-> Unofficial Desktop version of [Oblivion](https://github.com/bepass-org/oblivion)
 
 <b>"Internet, for all or none!"</b>
 
@@ -18,7 +17,6 @@ technology
 - **Open Source**: Built with transparency & community contribution in mind, leveraging the power of GitHub Actions for automated builds.
 - **User-Friendly**: Simple, intuitive interface.
 
-![oblivion.jpg](screenshot/oblivion.jpg)
 
 ## Quick Overview
 
