@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Oblivion Desktop</h1>
+    <h1>VPN</h1>
 </div>
 
 <div align="center">
@@ -21,13 +21,7 @@ technology
 
 <b>"Internet, for all or none!"</b>
 
-[![Version](https://img.shields.io/github/v/release/bepass-org/oblivion-desktop?label=Version&color=blue)](https://github.com/bepass-org/oblivion-desktop/releases/latest)
-[![Download](https://img.shields.io/github/downloads/bepass-org/oblivion-desktop/total?label=Downloads)](https://github.com/bepass-org/oblivion-desktop/releases/latest)
-[![Stars](https://img.shields.io/github/stars/bepass-org/oblivion-desktop?style=flat&label=Stars&color=tomato
-)](https://github.com/bepass-org/oblivion-desktop)
-[![License](https://img.shields.io/badge/License-Restrictive-f84e29.svg?color=white)](LICENSE.md)
 
-![oblivion.png](screenshot/oblivion.png)
 
 ## Features
 
